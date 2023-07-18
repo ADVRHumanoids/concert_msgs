@@ -1,0 +1,3 @@
+geometry_msgs/Pose pose
+uint8 repetitions
+geometry_msgs/Point repetition_distance
