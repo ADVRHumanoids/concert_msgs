@@ -10,4 +10,4 @@ concert_msgs/Keypoint3D[30] keypoints
 # "lToe", "rToe", "neck", "lClav", "rClav",
 # "head", "lShldr", "rShldr", "lElbow", "rElbow",
 # "lWrist", "rWrist", "lHand", "rHand", "nose",
-# "eyes", "lEar", "rEar", "htop_mpi_inf_hp"
+# "eyes", "lEar", "rEar", "htop_mpi_inf_hp-last point on the head"
