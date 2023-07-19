@@ -1,0 +1,3 @@
+Header header
+concert_msgs/CapsuleArray robot_capsules
+concert_msgs/PolycapsuleArray human_sets

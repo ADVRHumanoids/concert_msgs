@@ -50,10 +50,18 @@ find_package(catkin REQUIRED COMPONENTS
 # Generate messages in the 'msg' folder
  add_message_files(
    FILES
-   MarkerData.msg
+   Capsule.msg
+   CapsuleArray.msg
    Human3D.msg
    Humans.msg
    Keypoint3D.msg
+   MarkerData.msg
+   Polycapsule.msg
+   PolycapsuleArray.msg
+   PositionsHeadered.msg
+   Segment.msg
+   StartGoalCapsuleArray.msg
+   Visualization.msg
 )
 
 ## Generate services in the 'srv' folder
