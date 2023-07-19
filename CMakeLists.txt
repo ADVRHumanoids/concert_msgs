@@ -51,6 +51,9 @@ find_package(catkin REQUIRED COMPONENTS
  add_message_files(
    FILES
    MarkerData.msg
+   Human3D.msg
+   Humans.msg
+   Keypoint3D.msg
 )
 
 ## Generate services in the 'srv' folder
