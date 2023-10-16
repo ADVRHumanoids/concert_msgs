@@ -54,6 +54,7 @@ find_package(catkin REQUIRED COMPONENTS
    Human3D.msg
    Humans.msg
    Keypoint3D.msg
+   Gestures.msg
 )
 
 ## Generate services in the 'srv' folder

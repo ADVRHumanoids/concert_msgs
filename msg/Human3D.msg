@@ -3,7 +3,7 @@
 int16 label_id
 
 # 3D Skeleton
-concert_msgs/Keypoint3D[30] keypoints
+concert_msgs/Keypoint3D[25] keypoints
 
 # "pelvis", "lHip", "rHip", "belly", "lKnee",
 # "rKnee", "spine", "lAnkle", "rAnkle", "thor",

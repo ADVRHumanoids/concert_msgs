@@ -1,0 +1,3 @@
+string gesture_type
+float32 result_time
+float32 confidence
